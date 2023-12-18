@@ -14,7 +14,7 @@ TelegramESPBot is a program for the ESP8266 board to control the WS2812B address
 
 -The user sends a specific command that is specified in the bot called /open_menu ;
 
-\n -A menu opens where the user can choose different lighting colors (their number can be added or reduced).
+-A menu opens where the user can choose different lighting colors (their number can be added or reduced).
 
 ## Project Photos
 
