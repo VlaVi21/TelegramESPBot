@@ -1,5 +1,6 @@
 # TelegramESPBot
 TelegramESPBot - a program for the ESP8266 board to control the WS2812B addressable LED strip remotely or at a distance, using a separate telegram bot.
 
-https://github.com/VlaVi21/TelegramESPBot/assets/87720270/ed704109-a036-4d2b-aeb4-8953865f8973
+![Scheme of the project](https://github.com/VlaVi21/TelegramESPBot/assets/87720270/cb14a261-cf54-43be-b08f-60821f178caa)
+
 
