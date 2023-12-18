@@ -5,7 +5,7 @@ TelegramESPBot is a program for the ESP8266 board to control the WS2812B address
 ## Project Overview
 
 
-![TelegramESPBot](![Photos](https://github.com/VlaVi21/TelegramESPBot/assets/87720270/2e71b3b3-ec35-48cb-9785-550023b1beb5))
+<img src="![Photos](https://github.com/VlaVi21/TelegramESPBot/assets/87720270/5dbdc218-7c58-457f-8ed8-db370e48866f)"width="200">
 
 
 ## Scheme of the Project
@@ -18,7 +18,7 @@ TelegramESPBot is a program for the ESP8266 board to control the WS2812B address
 
 <div align="center">
   
-  <img src="https://github.com/VlaVi21/TelegramESPBot/assets/87720270/36da71d5-d1f6-4b31-bd5e-d842ce329bae" width="200">
+<img src="https://github.com/VlaVi21/TelegramESPBot/assets/87720270/36da71d5-d1f6-4b31-bd5e-d842ce329bae" width="200">
 
 <img src="https://github.com/VlaVi21/TelegramESPBot/assets/87720270/b2fad63d-f7b0-43a5-8bd0-c053820e2dfb" width="200">
 
